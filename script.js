@@ -1,5 +1,5 @@
+document.getElementById("completeTaskBtn").addEventListener("click", function () {
+    alert("Task completed! Notification sent.");
+});
 
-    function showMessage() {
-        alert("Task created and Message Sent")
-    }
 
